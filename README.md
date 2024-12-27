@@ -1,1 +1,3 @@
-file>practice001>answer001.cpp
+file>practice001>answer001.cpp에 있습니다.
+
+채점 기준? 에 n회 이용하는걸 고려하라 하셔서 5명이 아닌 n명 구현이 가능한 버전으로 풀었습니다.
