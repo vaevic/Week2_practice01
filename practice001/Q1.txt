@@ -1,0 +1,13 @@
+﻿'practice001.exe'(Win32): 'E:\C++_note\practice001\x64\Debug\practice001.exe'을(를) 로드했습니다. 기호가 로드되었습니다.
+'practice001.exe'(Win32): 'C:\Windows\System32\ntdll.dll'을(를) 로드했습니다. 포함/제외 설정으로 기호 로드가 비활성화되었습니다.
+'practice001.exe'(Win32): 'C:\Windows\System32\kernel32.dll'을(를) 로드했습니다. 포함/제외 설정으로 기호 로드가 비활성화되었습니다.
+'practice001.exe'(Win32): 'C:\Windows\System32\KernelBase.dll'을(를) 로드했습니다. 포함/제외 설정으로 기호 로드가 비활성화되었습니다.
+'practice001.exe'(Win32): 'C:\Windows\System32\msvcp140d.dll'을(를) 로드했습니다. 포함/제외 설정으로 기호 로드가 비활성화되었습니다.
+'practice001.exe'(Win32): 'C:\Windows\System32\vcruntime140d.dll'을(를) 로드했습니다. 포함/제외 설정으로 기호 로드가 비활성화되었습니다.
+'practice001.exe'(Win32): 'C:\Windows\System32\vcruntime140_1d.dll'을(를) 로드했습니다. 포함/제외 설정으로 기호 로드가 비활성화되었습니다.
+'practice001.exe'(Win32): 'C:\Windows\System32\ucrtbased.dll'을(를) 로드했습니다. 포함/제외 설정으로 기호 로드가 비활성화되었습니다.
+22768 스레드가 종료되었습니다(코드: 0 (0x0)).
+13672 스레드가 종료되었습니다(코드: 3221225786 (0xc000013a)).
+34616 스레드가 종료되었습니다(코드: 3221225786 (0xc000013a)).
+37940 스레드가 종료되었습니다(코드: 3221225786 (0xc000013a)).
+'[40152] practice001.exe' 프로그램이 종료되었습니다(코드: 3221225786 (0xc000013a)).
